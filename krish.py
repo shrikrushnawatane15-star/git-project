@@ -1,1 +1,1 @@
-print("My file created with CLI command")
+print("My file created with CLI command to be added")
